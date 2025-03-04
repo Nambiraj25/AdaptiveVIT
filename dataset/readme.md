@@ -22,7 +22,8 @@ This dataset is used to evaluate the model's ability to generalize across variou
   kaggle datasets download -d nickfratto/pacs-dataset
 ### Description:
 The PACS dataset includes images organized by domain and class. It is extensively used in research for domain adaptation and generalization.
-##3. Download and Extraction Instructions
+
+## 3. Download and Extraction Instructions
 Follow these steps to set up the PACS dataset in this data/ directory:
 
 ### Download the Dataset:
