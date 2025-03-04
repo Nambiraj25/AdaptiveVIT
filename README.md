@@ -19,7 +19,7 @@ The repository is organized as follows:
 - **notebooks/**: Jupyter notebooks for experiments, visualization, and further analysis.
 - **results/**: Contains performance metrics, graphs, and observations from the experiments.
 
-Results and Observations
+##Results and Observations
 
 Performance Metrics: Detailed performance metrics and evaluation results are saved in the results/ directory.
 
@@ -33,11 +33,12 @@ Challenge: The model needed to adapt to diverse domain-specific features.
 
 Resolution: Implemented an adaptive token selection mechanism to capture essential features specific to each domain.
 
-Ensuring Reproducibility:
+##Ensuring Reproducibility:
 
 Challenge: Maintaining consistent experimental results across different runs.
 
 Resolution: Employed rigorous version control, thorough documentation, and standardized training pipelines.
 
-Contributing
+##Contributing
+
 Contributions are welcome! If you wish to improve the implementation or documentation, please open an issue or submit a pull request.
