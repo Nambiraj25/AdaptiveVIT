@@ -51,11 +51,12 @@ Modify the path if you're using a local setup.
 Move or copy the extracted folder (typically named pacs or similar) into this data/ directory. Your final structure should look like:
 
 data/
- └── pacs/
+  └── pacs/
       ├── Photo/
       ├── Art_Painting/
       ├── Cartoon/
       └── Sketch/
+
 
 ## 4. Preprocessing Steps
 
