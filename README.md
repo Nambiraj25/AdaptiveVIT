@@ -3,7 +3,7 @@
 # AdaViT: Adaptive Vision Transformers for Multi-Domain Image Recognition
 
 ## Overview
-This repository contains the implementation of the paper **"AdaViT: Adaptive Vision Transformers for Multi-Domain Image Recognition."** The work presents an adaptive approach to Vision Transformers, enabling them to perform robust image recognition across various domains. The method primarily focuses on dynamically adapting the model architecture and fine-tuning pre-trained models for improved performance on multi-domain tasks.
+This repository contains the implementation of the paper **"AdaViT: Adaptive Vision Transformers for Efficient Image Recognition."** The work presents an adaptive approach to Vision Transformers, enabling them to perform robust image recognition across various domains. The method primarily focuses on dynamically adapting the model architecture and fine-tuning pre-trained models for improved performance on multi-domain tasks.
 
 ## Paper Summary
 In simple terms, the paper proposes:
